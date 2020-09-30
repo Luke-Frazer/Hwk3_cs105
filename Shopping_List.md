@@ -6,4 +6,5 @@
 ## 2 more ONION
 ## No more milk
 ## Grapes
-## Raspberries
+## Apples
+## Honey Nut Cheerios
